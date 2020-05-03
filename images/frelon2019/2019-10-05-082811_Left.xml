@@ -1,7 +1,7 @@
 <annotation>
-	<folder>frelon_2019_bis</folder>
+	<folder>lastimages</folder>
 	<filename>2019-10-05-082811_Left.jpg</filename>
-	<path>/home/jody/hornet-detector-trainer/images/frelon_2019_bis/2019-10-05-082811_Left.jpg</path>
+	<path>/home/jody/hornet-detector-trainer/lastimages/2019-10-05-082811_Left.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1116</xmin>
-			<ymin>462</ymin>
-			<xmax>1169</xmax>
-			<ymax>512</ymax>
+			<xmin>1102</xmin>
+			<ymin>445</ymin>
+			<xmax>1175</xmax>
+			<ymax>516</ymax>
 		</bndbox>
 	</object>
 </annotation>
